@@ -5,8 +5,8 @@
         "telegram",
         "Droplink"
     ],
-    "website": "https://github.com/ToonsHub/Droplink-bot",
-    "repository": "https://github.com/ToonsHub/Droplink-bot",
+    "website": "https://github.com/apunkanetwork/Droplink-bot",
+    "repository": "https://github.com/apunkanetwork/Droplink-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
